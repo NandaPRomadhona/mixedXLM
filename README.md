@@ -1,6 +1,6 @@
 # mixedXLM
 
-The Original Code in [XLM] (https://github.com/facebookresearch/XLM)
+The Original Code in [XLM](https://github.com/facebookresearch/XLM)
 In this work, we train our model use code-mixing corpus
 Currently, only available in Malaya, English, Chinese.
 
@@ -8,7 +8,7 @@ Currently, only available in Malaya, English, Chinese.
 - Python3
 - NumPy
 - PyTorch
-- Some Tools you can follow this [link] (https://github.com/facebookresearch/XLM/tree/master/tools)
+- Some Tools you can follow this [link](https://github.com/facebookresearch/XLM/tree/master/tools)
 
 ## Code-Mixing Language Model Pretraining
 ### 1. Perparing the data
